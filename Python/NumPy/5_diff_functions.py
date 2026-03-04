@@ -1,0 +1,11 @@
+import numpy as np
+array= np.array([1,4,9,16,25,36,49,64,81,100,121,144,169])
+print(np.sum(array))
+print(np.min(array))
+print(np.max(array))
+print(np.mean(array))
+print(np.std(array))
+print(np.var(array))
+print(np.sqrt(array))
+print(np.cbrt(array))
+print(np.exp(array))
